@@ -17,7 +17,7 @@
 - Email: se.nttin181101@gmail.com
 - [GitHub](https://github.com/trungtin1811).
 - [Facebook](https://www.facebook.com/trungtin1811/).
-- [Linkedin](www.linkedin.com/in/senttin1811).
+- [Linkedin](https://www.linkedin.com/in/senttin1811).
 
 
 
