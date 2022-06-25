@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm TinNT</h1>
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=trungtin1811)
 [![Github](https://img.shields.io/github/followers/trungtin1811?label=Follow&style=social)](https://github.com/trungtin1811)
+
+<h1 align="center">Hi 👋, I'm TinNT</h1>
 
 <h4 align="center">I am a FPT University Student oriented to be a Full-Stack Developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</h4>
 
